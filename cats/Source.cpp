@@ -5,6 +5,6 @@ int main()
 {
 
 	cout << "Hello Cats!" << endl;
-	cout << "We will calm 'em down!" << endl;
-	cout << "Meow" << endl;
+	cout << "There's nothing to meow, but give me a treat!" << endl;
+	cout << "We will calm 'em down now!" << endl;
 }
