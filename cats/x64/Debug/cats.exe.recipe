@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\andre\OneDrive\Рабочий стол\ProjectCats\cats\x64\Debug\cats.exe</FullPath>
+      <FullPath>C:\ProjectCats\cats\x64\Debug\cats.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
